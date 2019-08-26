@@ -36,6 +36,8 @@ session_start();
   <link rel="stylesheet" href="vistas/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
   <link rel="stylesheet" href="vistas/bower_components/datatables.net-bs/css/responsive.bootstrap.min.css">
 
+  <!-- iCheck for checkboxes and radio inputs -->
+  <link rel="stylesheet" href="vistas/plugins/iCheck/all.css">
   
 <!-- ####################################
       PLUGIN JAVASCRIPT
@@ -60,6 +62,8 @@ session_start();
 <!-- Sweetalert 2 -->
 <script src="vistas/plugins/sweetalert2/sweetalert2.all.js"></script>
 
+<!-- iCheck 1.0.1 -->
+<script src="vistas/plugins/iCheck/icheck.min.js"></script>
 </head>
 
 
